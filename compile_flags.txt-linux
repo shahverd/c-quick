@@ -1,0 +1,10 @@
+-xc
+-Wall
+-Wextra
+-std=c99
+-I
+/usr/include
+-I
+/usr/lib
+-I
+./include

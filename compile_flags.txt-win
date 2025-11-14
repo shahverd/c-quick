@@ -1,0 +1,12 @@
+-xc
+-Wall
+-Wextra
+'--query-driver=C:/w64devkit/bin/gcc.exe'
+--target=x86_64-w64-windows-gnu
+-std=c99
+-I
+C:/w64devkit/include
+-I
+C:/w64devkit/lib
+-I
+./include
