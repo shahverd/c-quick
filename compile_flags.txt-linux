@@ -7,10 +7,8 @@
 -MMD
 -MP
 -g
--IC:/w64devkit/include
--IC:/w64devkit/lib
 -I/usr/include
 -I/usr/lib
--I./lib
 -I./include
+-I./lib
 -I./lib/header_only
